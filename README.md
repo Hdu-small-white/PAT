@@ -1,2 +1,2 @@
 # PAT
-PAT Practive Coding
+PAT Coding Practice
